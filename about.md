@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This blog is a running set of notes on **Jenkins** — pipelines, plugins, agents, and the everyday practice of keeping CI/CD healthy.
+This blog is a place for detailed posts on how AI &amp; Analytics can help companies make data-driven decisions.
 
-Expect short, practical write-ups: Jenkinsfile patterns that held up in production, plugins worth using, and fixes for the errors that show up along the way.
+Expect posts covering things like:
+
+- How AI tools can augment analytical capabilities
+- Specific use cases of analytics on important business processes
+- How SMEs can use their data to make better decisions, in the same way large corporates do
+- Technical guidelines on how to implement modern Data &amp; Analytics data repositories
+- Data Management: Data Governance, Quality, etc.
 
 Written by {{ site.author }}.

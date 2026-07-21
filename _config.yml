@@ -1,6 +1,6 @@
-title: The Jenkins Blog
+title: Matt Pro Analytics Blog
 description: >-
-  Notes, tutorials, and field notes on Jenkins pipelines, plugins, and CI/CD practice.
+  Detailed posts on how AI & Analytics can help companies make data-driven decisions.
 author: Matt Protopapas
 email: protmat@hilti.com
 url: "https://mattprotopapas.github.io"
@@ -13,6 +13,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+feed:
+  xslt: true
 
 exclude:
   - Gemfile
