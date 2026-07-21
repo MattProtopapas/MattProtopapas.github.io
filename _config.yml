@@ -2,7 +2,7 @@ title: Matt Pro Analytics Blog
 description: >-
   Detailed posts on how AI & Analytics can help companies make data-driven decisions.
 author: Matt Protopapas
-email: protmat@hilti.com
+email: matt@kedrosanalytics.com
 url: "https://mattprotopapas.github.io"
 baseurl: ""
 
@@ -13,9 +13,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-feed:
-  xslt: true
 
 exclude:
   - Gemfile

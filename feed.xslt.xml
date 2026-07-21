@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:a="http://www.w3.org/2005/Atom"
+  exclude-result-prefixes="a">
+
+<xsl:output method="html" encoding="UTF-8" indent="yes"/>
+
+<xsl:template match="/a:feed">
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title><xsl:value-of select="a:title"/></title>
+<style>
+  :root {
+    --brand: #003B2B;
+    --brand-light: #0f6b4d;
+    --brand-tint: #eef4f1;
+    --border: #e2e8e5;
+    --muted: #585858;
+    --radius: 12px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+    color: var(--muted);
+    background: #ffffff;
+    line-height: 1.6;
+    margin: 0;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 2.5em 1.25em; }
+  .banner {
+    background: var(--brand-tint);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1em 1.25em;
+    margin-bottom: 2em;
+    font-size: 0.95em;
+  }
+  .banner strong { color: var(--brand); }
+  h1 { color: var(--brand); font-size: 1.8em; margin: 0 0 0.2em 0; }
+  .subtitle { color: var(--muted); margin: 0 0 1.5em 0; }
+  .site-link { font-weight: 600; color: var(--brand); }
+  .entry {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5em;
+    margin-bottom: 1.25em;
+  }
+  .entry h2 { margin: 0 0 0.3em 0; font-size: 1.2em; }
+  .entry h2 a { color: var(--brand); text-decoration: none; }
+  .entry h2 a:hover { color: var(--brand-light); }
+  .entry-date {
+    color: var(--brand-light);
+    font-weight: 600;
+    font-size: 0.8em;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="banner">
+    This is an <strong>RSS/Atom feed</strong>. Copy this page's URL into a feed reader (Feedly, Inoreader, NetNewsWire, etc.) to subscribe.
+  </div>
+  <h1><xsl:value-of select="a:title"/></h1>
+  <xsl:if test="a:subtitle">
+    <p class="subtitle"><xsl:value-of select="a:subtitle"/></p>
+  </xsl:if>
+  <p><a class="site-link" href="{a:link[@rel='alternate']/@href}">Visit the site &#8594;</a></p>
+
+  <xsl:for-each select="a:entry">
+    <div class="entry">
+      <h2><a href="{a:link[@rel='alternate']/@href}"><xsl:value-of select="a:title"/></a></h2>
+      <div class="entry-date"><xsl:value-of select="substring(a:published, 1, 10)"/></div>
+    </div>
+  </xsl:for-each>
+</div>
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>
