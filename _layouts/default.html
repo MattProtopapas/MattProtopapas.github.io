@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ site.title }}</title>
+	{% if page.excerpt %}
+	<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+	{% else %}
+	<meta name="description" content="{{ site.description }}">
+	{% endif %}
+	<link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+	<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+	{% feed_meta %}
+	{% seo %}
+</head>
+<body>
+	{% include header.html %}
+	<main class="k-main">
+		<div class="k-container">
+			{{ content }}
+		</div>
+	</main>
+	{% include footer.html %}
+</body>
+</html>

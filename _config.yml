@@ -1,0 +1,21 @@
+title: The Jenkins Blog
+description: >-
+  Notes, tutorials, and field notes on Jenkins pipelines, plugins, and CI/CD practice.
+author: Matt Protopapas
+email: protmat@hilti.com
+url: "https://mattprotopapas.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
