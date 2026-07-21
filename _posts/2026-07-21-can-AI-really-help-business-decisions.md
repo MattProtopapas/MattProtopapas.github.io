@@ -1,5 +1,3 @@
-# Can AI really help business decisions? 
-
 Generally speaking there are 3 kind of decisions: *strategic*, *tactical* and *operational* (day-to-day).
 
 Data & Analytics have been useful to all of them, but with a varying degree of value.
