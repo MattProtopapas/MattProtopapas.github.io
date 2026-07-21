@@ -14,4 +14,6 @@ Expect posts covering things like:
 - Technical guidelines on how to implement modern Data &amp; Analytics data repositories
 - Data Management: Data Governance, Quality, etc.
 
+I'm Matt Protopapas, an independent Data &amp; AI consultant and founder of [Kedros Analytics](https://kedros-analytics.github.io/). With extensive experience delivering analytics, business intelligence, and data platform solutions for 30+ European organizations, I help businesses turn data into actionable insights and measurable value.
+
 Written by {{ site.author }}.
