@@ -28,6 +28,8 @@ There are however, many simple operational decisions a company has to make, wher
 
 For example, understanding which orders have been invoiced does not necessarily require the construction of a data warehouse to consolidate all the data produced from all the company’s processes in all their systems. Neither they require advanced mathematical concepts. Reconciling information from their ERP and perhaps some other operational system, using simple business rules, would most probably do the trick.
 
+### Operational Decisions are easier for AI
+
 That’s why operational decisions have been either made automatically through code that incorporated a fixed set of business rules, or manually, from company employees who simply knew what needed to be done through their experience and training.
 
 In my view, that’s where AI could offer its most potential. By simplifying the code that would be implemented to set up that automation, or to save employees time - who have definitely more productive and creative things to do, than reconciling invoices and order information.
