@@ -1,5 +1,3 @@
-# Why Portfolio Optimization Matters for SMEs and Individual Investors
-
 Every SME owner and individual investor eventually ends up holding more than one asset —
 a mix of stocks, bonds, cash reserves, maybe a rental property or a stake in another
 business. The usual way that mix gets decided is gut feel: "I'll put most of it in
