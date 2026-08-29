@@ -44,7 +44,7 @@ renewable energy installations, automation robotics — with **4 additional reco
 deliberately broken** to prove the validation step actually rejects bad data rather than
 silently accepting it.
 
-![Sample of the Project Proposals tab](/assets/images/2026-08-08-project-proposals.jpg)
+<img src="/assets/images/2026-08-08-project-proposals.jpg" alt="Sample of the Project Proposals tab" width="700">
 
 Every proposal carries the inputs a real capital request would: sponsor, department, asset
 type, initial outlay, useful life, the firm's hurdle rate (discount rate) for that project,
@@ -59,7 +59,7 @@ stated useful life, the asset type must be a recognized real-asset category, and
 discount rate must fall within a sane policy range. Four records fail on purpose, to prove
 the check isn't a no-op:
 
-![Sample of the Rejected Records tab](/assets/images/2026-08-08-rejected-records.jpg)
+<img src="/assets/images/2026-08-08-rejected-records.jpg" alt="Sample of the Rejected Records tab" width="700">
 
 Each rejection carries the specific reason it failed — a negative outlay, a cash-flow array
 with 3 entries against a stated 6-year useful life, an asset type ("Cryptocurrency Mining
@@ -75,7 +75,7 @@ With 20 valid proposals in hand, the pipeline runs the standard capital budgetin
 on each one — NPV, IRR, simple and discounted payback period, and the Profitability Index —
 and ranks every project by NPV:
 
-![Sample of the Analysis Results tab](/assets/images/2026-08-08-analysis-results.jpg)
+<img src="/assets/images/2026-08-08-analysis-results.jpg" alt="Sample of the Analysis Results tab" width="700">
 
 **11 of the 20 valid proposals clear NPV > 0 and get an Accept; 9 don't.** Reading a few
 rows side by side shows exactly why NPV, not IRR or payback, is the deciding column:

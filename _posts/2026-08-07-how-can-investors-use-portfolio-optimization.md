@@ -88,7 +88,7 @@ Once expected returns and the covariance matrix are estimated, the optimizer tra
 **efficient frontier** — for a grid of target returns, the minimum possible volatility
 achievable at each one — and marks two specific portfolios on it:
 
-![The Efficient Frontier chart, with individual assets and both optimal portfolios](/assets/images/2026-08-07-frontier.jpg)
+<img src="/assets/images/2026-08-07-frontier.jpg" alt="The Efficient Frontier chart, with individual assets and both optimal portfolios" width="700">
 
 - **Global Minimum Variance (GMV)** — the single point on the frontier with the lowest
   possible risk, full stop, regardless of return.

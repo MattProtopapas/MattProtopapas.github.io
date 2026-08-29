@@ -49,7 +49,7 @@ COGS, beginning/ending inventory, receivables and payables balances, the unit's 
 capital, its storage-cost rate, and its estimated stockout risk. That's the raw material
 every downstream number in the workbook is calculated from.
 
-![Sample of the Input Data tab](/assets/images/2026-08-27-input-data.jpg)
+<img src="/assets/images/2026-08-27-input-data.jpg" alt="Sample of the Input Data tab" width="700">
 
 ## Catching bad records before they pollute the analysis
 
@@ -91,7 +91,7 @@ judged against — the **optimal inventory investment I\***. Units sitting well 
 highlighted amber (flexible / over-invested); units well below are highlighted red
 (restrictive / under-invested):
 
-![Sample of the Cycle & Cost Analysis tab](/assets/images/2026-08-27-cycle-cost-analysis.jpg)
+<img src="/assets/images/2026-08-27-cycle-cost-analysis.jpg" alt="Sample of the Cycle and Cost Analysis tab" width="700">
 
 Across the 142 units, the averages look unremarkable: 65.6 days in inventory, 48.0 days in
 receivables, 44.0 days in payables — an operating cycle of 113.7 days and an average cash
@@ -132,7 +132,7 @@ reserve, at whatever that funding costs.
 The third tab rolls everything up by business segment — unit counts, average cash cycle,
 total financing gap, total carrying cost, total shortage exposure, and the policy mix:
 
-![Sample of the Segment Summary tab](/assets/images/2026-08-27-segment-summary.jpg)
+<img src="/assets/images/2026-08-27-segment-summary.jpg" alt="Sample of the Segment Summary tab" width="700">
 
 Three things jump out of this run's summary:
 
