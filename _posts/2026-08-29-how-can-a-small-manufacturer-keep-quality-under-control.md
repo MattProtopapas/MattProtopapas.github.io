@@ -1,5 +1,3 @@
-# Lean Six Sigma for Small Manufacturers: Knowing, Not Hoping, That the Line Is in Control
-
 Every production line generates measurements. A filling line weighs bottles, a
 packaging line counts rejects, a machining cell logs dimensions. Most small
 manufacturers *collect* those numbers — an operator writes them on a check sheet, or
