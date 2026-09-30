@@ -52,7 +52,7 @@ Status legend: `[ ]` not started · `[d]` demo repo done · `[w]` draft written 
     workbook with per-SKU forecast vs actual, accuracy league table, "which SKUs are forecastable".
   - *Links back to:* inventory control (2026-07-27), working capital (2026-08-27).
 
-- [ ] **2026-10-12 — How should a small company set its prices?**
+- [w] **2026-10-12 — How should a small company set its prices?**
   - *Why SMEs care:* most SMEs price at cost-plus or copy a competitor; holiday promotions are
     about to be planned with no idea of elasticity.
   - *Method:* price elasticity from historical price/volume, log-log regression, contribution
@@ -61,7 +61,7 @@ Status legend: `[ ]` not started · `[d]` demo repo done · `[w]` draft written 
     elasticity per product, "safe to raise" vs "price-sensitive" lists, promo scenario table.
   - *Links back to:* market basket (2026-08-03), lead conversion (2026-07-22).
 
-- [ ] **2026-10-19 — How many staff do you actually need on a Saturday?**
+- [w] **2026-10-19 — How many staff do you actually need on a Saturday?**
   - *Why SMEs care:* shops, cafés, call desks and clinics over- or under-staff by habit; wages are
     usually the biggest controllable cost.
   - *Method:* arrival rate by hour/day, Erlang C / simple queueing, service-level targets
@@ -70,7 +70,7 @@ Status legend: `[ ]` not started · `[d]` demo repo done · `[w]` draft written 
     required-staff grid per hour, current roster vs. required, cost comparison.
   - *Links back to:* OTIF (2026-09-07, same "customer's side of the fence" framing).
 
-- [ ] **2026-10-26 — Did that promotion actually work? A/B testing for small businesses**
+- [w] **2026-10-26 — Did that promotion actually work? A/B testing for small businesses**
   - *Why SMEs care:* Black Friday emails, discount codes and layout changes get judged on
     "sales went up"; nobody checks whether the difference is noise.
   - *Method:* two-proportion z-test / chi-square for conversion, t-test for basket value, minimum
