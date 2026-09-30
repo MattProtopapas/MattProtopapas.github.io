@@ -5,3 +5,6 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
+
+# Claude Code local config
+.claude/
