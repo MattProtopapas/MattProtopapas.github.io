@@ -1,5 +1,5 @@
 Ask the person who places the purchase orders at a small retailer or wholesaler how much
-of each product they will sell next month and the answer is usually a feeling: "about the
+of each product they will sell next month and the answer is usually based on gut feeling: "about the
 same as last month," "a bit more, it's coming up to Christmas," "we always do well on
 that one in October." Sometimes the feeling is right. But the order goes in weeks before
 the sales happen, the supplier's lead time is fixed, and every unit the feeling gets wrong

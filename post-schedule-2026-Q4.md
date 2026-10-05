@@ -41,7 +41,7 @@ and planning / KPI design for the new year.
 
 Status legend: `[ ]` not started · `[d]` demo repo done · `[w]` draft written · `[x]` published
 
-### October — getting ready for peak season
+### October — getting ready for peak season (written)
 
 - [w] **2026-10-05 — How can a small business forecast next month's demand?**
   - *Why SMEs care:* Q4 ordering decisions are being made now; every inventory post so far assumed
