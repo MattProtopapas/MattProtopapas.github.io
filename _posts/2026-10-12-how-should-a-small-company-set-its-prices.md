@@ -370,7 +370,7 @@ real limits:
   [market basket](/2026/08/03/how-can-a-small-company-use-market-basket-analysis/) post is
   the place to find those pairs before pricing them independently.
 
-None of that diminishes the core value. The sales history already exists. The method is
+None of that diminishes the core value of this approach. The sales history already exists. The method is
 the one Alfred Marshall wrote down in 1890, and it runs in seconds on a laptop. What
 elasticity changes is not that you know the perfect price, but that you know, product by
 product, which way to move it, how far the data supports going, and which discounts are
