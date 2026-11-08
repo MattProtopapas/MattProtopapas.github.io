@@ -94,7 +94,7 @@ The **Daily Forecast** tab and the chart show the whole fan of outcomes, day by 
 
 ![Chart: fan of simulated cash balances over 90 days with a sawtooth at each payroll date, and the distribution of the lowest balance reached](/assets/images/2026-11-07-cash-fan-chart.png)
 
-Read the left-hand chart as a sawtooth. Cash builds through the month, then drops
+Read the left-hand chart as a saw-tooth. Cash builds through the month, then drops
 sharply on each payroll date — around days 29, 59 and 90 — and the shaded band (the
 range of outcomes) gets wider the further out you look. The median balance falls from
 about **€37,000** at the end of the first month to **€24,600** after the second
