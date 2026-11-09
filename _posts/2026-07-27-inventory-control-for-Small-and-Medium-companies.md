@@ -1,11 +1,11 @@
-# Why Inventory Optimization Analytics Matter for SMEs
-
 For small and medium-sized enterprises that hold physical stock — whether it's raw
 materials, spare parts, or finished goods — inventory is usually one of the largest
 tied-up assets on the balance sheet. Get it wrong in one direction and you're sitting on
 cash that's frozen in stock nobody's buying. Get it wrong in the other direction and
 you're missing sales, disappointing customers, or paying rush-shipping premiums because
 you ran out of something at the worst possible moment.
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=GnXB8dNE8i0)
 
 This is a genuinely hard balancing act, and it's usually a *bigger* problem for SMEs than
 for large enterprises, not a smaller one. A large retailer can absorb a badly-stocked SKU
