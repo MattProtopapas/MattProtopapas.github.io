@@ -5,7 +5,9 @@ cash that's frozen in stock nobody's buying. Get it wrong in the other direction
 you're missing sales, disappointing customers, or paying rush-shipping premiums because
 you ran out of something at the worst possible moment.
 
-[Watch the video on YouTube](https://www.youtube.com/watch?v=GnXB8dNE8i0)
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:1.5em;">
+  <iframe src="https://www.youtube.com/embed/GnXB8dNE8i0" title="YouTube video player" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 This is a genuinely hard balancing act, and it's usually a *bigger* problem for SMEs than
 for large enterprises, not a smaller one. A large retailer can absorb a badly-stocked SKU
