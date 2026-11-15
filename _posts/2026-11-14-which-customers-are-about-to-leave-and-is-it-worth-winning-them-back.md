@@ -8,7 +8,7 @@ when they're gone."
 That is the expensive moment to notice. Winning a new customer typically costs several
 times more than keeping an existing one, and a customer who has been silent for a year is
 rarely coming back at any price. The useful moment is much earlier: when a customer who
-used to order every three weeks hasn't ordered for ten.
+used to order every three weeks hasn't ordered for 10.
 
 This blog keeps returning to one idea: replace gut feel with a number. The
 [customer segmentation](/2026/08/09/how-can-companies-profile-and-segment-their-customers/)
