@@ -1,5 +1,4 @@
-Ask the owner of a small manufacturing or distribution company which supplier they would
-trust with a critical part and the answer is usually the one who has been around longest,
+Ask the owner of a small manufacturing or distribution company which supplier they would trust with a critical part and the answer is usually the one who has been around longest,
 or the one whose sales rep answers the phone. Ask which supplier is really the cheapest
 once you count the defective units, the late deliveries and the extra stock you hold to
 cover for them, and whether you would be in trouble if your biggest one had a bad month,
