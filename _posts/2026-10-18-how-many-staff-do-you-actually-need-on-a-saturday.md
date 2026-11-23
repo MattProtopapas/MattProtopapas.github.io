@@ -6,6 +6,10 @@ is too few from eleven to two and too many from eight to ten and again after six
 roster is paying for both mistakes at once — as wages for people with nothing to do in
 the quiet hours, and as customers who look at the queue at half past twelve and walk out.
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:1.5em;">
+  <iframe src="https://www.youtube.com/embed/eJha6_xY2gQ" title="YouTube video player" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 This blog keeps returning to the same idea: replace gut feel with a number. The
 [OTIF](/2026/09/07/are-your-orders-arriving-on-time-and-in-full/) post asked what service
 looks like from the customer's side of the fence and found the answer in the order data;
